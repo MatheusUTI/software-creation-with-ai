@@ -133,3 +133,27 @@ A barreira muda:
 menos sintaxe decorada
 mais clareza de pensamento
 ```
+
+## 11. IA não deve substituir a parte que faz crescer
+
+Usar IA não deve significar terceirizar pensamento, curiosidade ou aprendizado.
+
+A IA pode ajudar a organizar ideias, revisar hipóteses, gerar alternativas e acelerar implementação.
+
+Mas a pessoa ainda precisa:
+
+- compreender o problema;
+- formar julgamento;
+- experimentar;
+- errar;
+- validar;
+- decidir;
+- assumir responsabilidade.
+
+Se a IA remove apenas trabalho mecânico, ela amplia.
+
+Se a IA remove o esforço de compreender, ela empobrece.
+
+O objetivo não é parecer competente usando IA.
+
+O objetivo é se tornar mais capaz usando IA.

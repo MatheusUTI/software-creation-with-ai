@@ -110,6 +110,54 @@ O AISDD não nasceu como teoria.
 
 Nasceu porque os projetos reais começaram a ficar grandes demais para depender apenas de memória, chat e prompts longos.
 
+## Solidão intelectual
+
+Ao longo desta jornada, uma sensação recorrente foi a de não ter com quem conversar sobre muitas das ideias que surgiam.
+
+Grande parte das pessoas ao meu redor está naturalmente focada nas demandas imediatas do dia a dia.
+
+Enquanto isso, eu frequentemente me pego pensando sobre:
+
+- automação;
+- melhoria contínua;
+- criação de ferramentas;
+- Inteligência Artificial;
+- métodos de desenvolvimento;
+- novas formas de criar software;
+- como transformar problemas reais em sistemas.
+
+Isso muitas vezes gera uma sensação de isolamento intelectual.
+
+Por diversos momentos, tive a impressão de que estava apenas ocupando a mente com projetos que não produziam resultados concretos, quase como um hobby qualquer.
+
+Ao mesmo tempo, essas ideias continuaram retornando repetidamente ao longo dos anos.
+
+Mesmo abandonando projetos, eventualmente eu voltava para os mesmos temas:
+
+```txt
+problemas reais
++
+tecnologia
++
+automação
++
+criação de ferramentas
+```
+
+Ainda não sei exatamente onde esta jornada irá me levar.
+
+Talvez nunca gere retorno financeiro.
+
+Talvez permaneça apenas como uma atividade pessoal.
+
+Mas registrar essas ideias e experiências me parece importante, porque elas representam uma parte real da minha trajetória.
+
+Uma das motivações deste repositório é justamente essa:
+
+```txt
+Registrar o caminho enquanto ele ainda está acontecendo.
+```
+
 ## O que esta jornada tenta mostrar
 
 Esta jornada tenta mostrar que criar software com IA não é apenas pedir código.

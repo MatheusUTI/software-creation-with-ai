@@ -242,6 +242,70 @@ A IA pode escrever código.
 Mas software ainda exige engenharia.
 ```
 
+## LL-011 — A IA não deve roubar a parte divertida
+
+Uma reflexão importante surgiu ao ler uma crítica bem-humorada, mas séria, sobre o uso de IA por estudantes e profissionais.
+
+A princípio, a mensagem pode parecer apenas uma rejeição à IA.
+
+Mas, lendo com mais cuidado, o ponto central é outro: o risco não é usar IA. O risco é permitir que ela substitua justamente as partes mais importantes do processo humano.
+
+A IA pode escrever, resumir, gerar código, organizar ideias e acelerar tarefas.
+
+Mas ela não deveria roubar:
+
+- a descoberta;
+- a curiosidade;
+- o esforço de compreender;
+- a construção de domínio;
+- o prazer de resolver um problema;
+- a responsabilidade de decidir;
+- a sensação de autoria sobre o caminho.
+
+No contexto desta jornada, isso faz muito sentido.
+
+O objetivo não é usar IA para fingir conhecimento.
+
+O objetivo é usar IA para ampliar a capacidade de investigar, construir, validar e aprender.
+
+### Aprendizado
+
+Existe uma diferença profunda entre usar IA para evitar pensar e usar IA para pensar melhor.
+
+Quando a IA substitui o esforço de compreender, ela empobrece a pessoa.
+
+Quando a IA ajuda a organizar, testar, revisar e expandir o raciocínio, ela amplia a pessoa.
+
+O valor continua estando na substância:
+
+- domínio real;
+- experiência prática;
+- validação;
+- julgamento;
+- responsabilidade;
+- capacidade de aprender.
+
+### Aplicação
+
+Ao usar IA, vale perguntar:
+
+1. Estou terceirizando pensamento ou ampliando pensamento?
+2. Estou aprendendo algo ou apenas aceitando uma resposta?
+3. Consigo explicar por que aceitei essa sugestão?
+4. A IA está removendo a parte chata ou também está removendo a parte que me faria crescer?
+5. Ainda existe domínio humano suficiente para validar o resultado?
+
+Essa lição se conecta diretamente com a frase guia deste projeto:
+
+```txt
+A sintaxe está se tornando responsabilidade das máquinas.
+A compreensão dos problemas continua sendo responsabilidade humana.
+```
+
+A IA pode acelerar o caminho.
+
+Mas ela não deve substituir o ato de caminhar.
+
 ## Como adicionar novas lições
 
 Use este formato:

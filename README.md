@@ -150,3 +150,30 @@ A prioridade absoluta é a honestidade intelectual e a organização do conhecim
 > A sintaxe está se tornando responsabilidade das máquinas.
 >
 > A compreensão dos problemas continua sendo responsabilidade humana.
+
+## Licença e Compartilhamento
+
+Este projeto é compartilhado como conhecimento aberto e atribuível.
+
+Você é incentivado a:
+
+- estudar;
+- adaptar;
+- compartilhar;
+- experimentar;
+- melhorar.
+
+Por favor:
+
+- preserve a atribuição ao autor;
+- não remova a história e o contexto original;
+- mantenha adaptações sob a mesma filosofia de compartilhamento aberto.
+
+Crédito sugerido:
+
+```txt
+Based on Software Creation With AI
+by Anderson Matheus Albuquerque (MatheusUTI)
+```
+
+Licença: CC BY-SA 4.0.

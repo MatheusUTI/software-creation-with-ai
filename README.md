@@ -60,9 +60,18 @@ Este projeto não é:
 
 | Projeto | Papel na jornada |
 |---|---|
+| RouteWise | Experimento inicial ambicioso que revelou a necessidade de método |
+| Projetos / Roteirizador Pro | Fase de mistura entre app web, planilha e operação real |
+| Roteirizador_RCS | Experimento Python/Streamlit com ETL, mapas, geocodificação e LIFO |
 | Roteirizador | Ferramenta logística real que mostrou a importância de domínio, regras de negócio e continuidade |
 | Casa em Dia | Laboratório Android real para aprender desenvolvimento mobile assistido por IA |
 | AISDD | Framework criado para dar continuidade, rastreabilidade e resistência a alucinações em projetos com IA |
+
+Veja também:
+
+```txt
+docs/07_PROJECT_EVIDENCE.md
+```
 
 ## Estrutura inicial
 
@@ -74,7 +83,8 @@ docs/
 ├─ 03_PROBLEM_TO_PRODUCT.md
 ├─ 04_WORKING_WITH_AI.md
 ├─ 05_LESSONS_LEARNED.md
-└─ 06_ROADMAP.md
+├─ 06_ROADMAP.md
+└─ 07_PROJECT_EVIDENCE.md
 ```
 
 ## Estado atual

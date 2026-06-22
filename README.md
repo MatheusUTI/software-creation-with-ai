@@ -15,7 +15,7 @@ A Inteligência Artificial começa a reduzir essa barreira.
 
 Pela primeira vez, pessoas com profundo conhecimento de domínio, mas sem formação tradicional em desenvolvimento, podem participar ativamente da criação de software.
 
-Este projeto documenta essa transição.
+Este projeto documenta essa transição entre conhecimento de domínio e criação de software assistida por IA.
 
 Ele não busca provar que qualquer pessoa pode criar qualquer software sem esforço.
 
@@ -42,6 +42,18 @@ A IA é ferramenta.
 A direção é humana.
 
 A responsabilidade é humana.
+
+## 🧭 Como navegar por este repositório
+
+Se você está chegando agora, a recomendação é seguir esta ordem:
+
+1. [`00_MY_STORY.md`](docs/00_MY_STORY.md) — entenda a origem da jornada.
+2. [`01_CORE_PRINCIPLES.md`](docs/01_CORE_PRINCIPLES.md) — conheça os princípios centrais.
+3. [`03_PROBLEM_TO_PRODUCT.md`](docs/03_PROBLEM_TO_PRODUCT.md) — veja como problemas reais podem se transformar em software.
+4. [`05_LESSONS_LEARNED.md`](docs/05_LESSONS_LEARNED.md) — aprenda com erros, acertos e experimentos reais.
+5. [`07_PROJECT_EVIDENCE.md`](docs/07_PROJECT_EVIDENCE.md) — conheça os projetos que deram origem a esta jornada.
+
+Depois disso, explore o restante da documentação livremente.
 
 ## 🎯 Pilares e Escopo
 
@@ -82,9 +94,7 @@ Os conceitos documentados aqui nasceram da dor e da prática real em cenários o
 
 Veja o detalhamento e as evidências técnicas em:
 
-```txt
-docs/07_PROJECT_EVIDENCE.md
-```
+[`docs/07_PROJECT_EVIDENCE.md`](docs/07_PROJECT_EVIDENCE.md)
 
 ## 🗂️ Estrutura da Documentação
 
@@ -97,7 +107,8 @@ docs/
 ├─ 04_WORKING_WITH_AI.md    # Contexto, prompts estruturados e iteração
 ├─ 05_LESSONS_LEARNED.md    # Erros, gargalos e aprendizados da jornada
 ├─ 06_ROADMAP.md            # Próximos passos e evolução da documentação
-└─ 07_PROJECT_EVIDENCE.md   # Projetos construídos, testados e registrados
+├─ 07_PROJECT_EVIDENCE.md   # Projetos construídos, testados e registrados
+└─ 08_EDITORIAL_RULES.md    # Regras para preservar a identidade do projeto
 ```
 
 ## 🚀 Estado Atual e Próximos Passos
@@ -113,5 +124,6 @@ A prioridade absoluta é a honestidade intelectual e a organização do conhecim
 
 ## ✨ Frase Guia
 
-> A sintaxe está se tornando responsabilidade das máquinas.  
+> A sintaxe está se tornando responsabilidade das máquinas.
+>
 > A compreensão dos problemas continua sendo responsabilidade humana.

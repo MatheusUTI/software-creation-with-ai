@@ -20,6 +20,26 @@ Registrar esses projetos ajuda a mostrar que criar software com IA não é mági
 
 É um processo de investigação contínua.
 
+## O que estes repositórios provam
+
+Eles mostram que houve experimentação real antes de existir um método claro.
+
+A sequência não foi:
+
+```txt
+ideia perfeita → framework perfeito → produto perfeito
+```
+
+Foi mais próximo de:
+
+```txt
+dor real → tentativa → erro → pesquisa → nova ferramenta → novo protótipo → mais clareza → método
+```
+
+Isso importa porque o objetivo deste projeto não é vender uma imagem falsa de facilidade.
+
+O objetivo é mostrar que pessoas comuns podem avançar quando transformam problemas reais em experimentos pequenos, validam o que funciona e registram o aprendizado.
+
 ---
 
 ## RouteWise
@@ -106,6 +126,8 @@ Também mostrou que uma solução útil precisaria integrar:
 importação → triagem → roteirização → frota → custos → manifestos
 ```
 
+Ele também mostra uma fase importante da jornada: tentar unir o mundo prático da planilha com uma interface web mais estruturada.
+
 ### Frase síntese
 
 ```txt
@@ -163,6 +185,37 @@ O Roteirizador_RCS mostra que eu experimentei ferramentas diferentes até entend
 
 ---
 
+## Roteirizador atual
+
+Repositórios relacionados:
+
+```txt
+MatheusUTI/NewRouteWise
+MatheusUTI/Roteirizador_RCS
+MatheusUTI/RouteWise
+MatheusUTI/Projetos
+```
+
+### Papel na jornada
+
+O Roteirizador atual representa a consolidação progressiva dos experimentos anteriores.
+
+Ele nasce de uma dor diária real de logística e vai incorporando, aos poucos, as lições dos protótipos anteriores.
+
+### Aprendizado principal
+
+O Roteirizador mostra que software útil nasce quando a pessoa que conhece o problema consegue transformar conhecimento operacional em regras, fluxos e validação.
+
+A IA ajudou a implementar, mas o domínio logístico guiou o produto.
+
+### Frase síntese
+
+```txt
+O Roteirizador é o ponto onde experiência operacional, pesquisa, IA e método começaram a se juntar.
+```
+
+---
+
 ## Casa em Dia
 
 Repositório:
@@ -180,6 +233,8 @@ Ele ensina outro tipo de complexidade: mobile, persistência local, notificaçõ
 ### Aprendizado principal
 
 O ritmo de desenvolvimento Android pode ser mais lento do que um sistema web ou protótipo operacional, porque envolve muitos detalhes implícitos da plataforma.
+
+O Casa em Dia também funciona como laboratório de dogfooding do AISDD.
 
 ### Frase síntese
 
@@ -208,6 +263,10 @@ Ele organiza a continuidade usando documentos persistentes no repositório.
 A conversa com IA é temporária.
 
 O repositório precisa carregar a memória do projeto.
+
+O AISDD não nasceu como teoria isolada.
+
+Nasceu porque RouteWise, Roteirizador, Casa em Dia e outros experimentos mostraram que projetos reais precisam de continuidade, rastreabilidade e proteção contra alucinações.
 
 ### Frase síntese
 
@@ -248,3 +307,10 @@ Eles são evidências.
 Mostram que a jornada não começou com um framework pronto.
 
 Começou com tentativas reais de resolver problemas reais.
+
+Eles também mostram uma mensagem importante para outras pessoas:
+
+```txt
+Você não precisa acertar a ferramenta de primeira.
+Você precisa continuar investigando o problema.
+```

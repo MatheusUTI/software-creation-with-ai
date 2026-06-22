@@ -7,6 +7,18 @@ Este repositório documenta uma jornada prática: criar aplicações úteis com 
 - **A IA não substitui pessoas.** A IA amplia pessoas.
 - **O código é apenas a implementação.** O pensamento, a validação e a responsabilidade continuam sendo humanos.
 
+## Estado do projeto
+
+Este é um repositório vivo.
+
+A documentação está sendo construída em tempo real, enquanto a jornada acontece.
+
+Algumas ideias podem mudar ao longo do tempo à medida que novas experiências, erros, conversas e aprendizados surgirem.
+
+O objetivo não é parecer pronto.
+
+O objetivo é registrar o caminho enquanto ele ainda está acontecendo.
+
 ## 🌎 Por que este projeto existe
 
 Durante décadas, a criação de software esteve restrita a pessoas capazes de aprender linguagens, frameworks e detalhes técnicos complexos.
@@ -20,6 +32,19 @@ Este projeto documenta essa transição entre conhecimento de domínio e criaç�
 Ele não busca provar que qualquer pessoa pode criar qualquer software sem esforço.
 
 Ele busca demonstrar que pessoas comuns podem transformar problemas reais em produtos úteis quando combinam conhecimento do problema, pensamento estruturado, validação contínua e Inteligência Artificial como ferramenta.
+
+## Quem talvez se identifique com este projeto
+
+Talvez este material faça sentido para você se:
+
+- você conhece profundamente um problema real, mas não se considera programador;
+- você utiliza IA para criar ferramentas próprias;
+- você sente que pensa de forma diferente das pessoas ao seu redor;
+- você está tentando transformar conhecimento prático em software;
+- você também está descobrindo esse novo território entre domínio, IA e desenvolvimento;
+- você já se perguntou se está apenas ocupando a mente ou se está construindo algo que pode fazer sentido no futuro.
+
+Se esse for o seu caso, talvez você não esteja sozinho.
 
 ## 📢 Manifesto de Transparência
 
@@ -111,16 +136,14 @@ docs/
 └─ 08_EDITORIAL_RULES.md    # Regras para preservar a identidade do projeto
 ```
 
-## 🚀 Estado Atual e Próximos Passos
-
-O repositório inicia em modo **privado**.
+## 🚀 Próximos Passos
 
 A prioridade absoluta é a honestidade intelectual e a organização do conhecimento adquirido, sem pressa para monetização ou exposição pública.
 
 - [x] **Fase 1:** organizar, estruturar e documentar o que já foi aprendido na prática.
 - [ ] **Fase 2:** refinar o conteúdo e transformá-lo em material didático acessível para outras pessoas.
 - [ ] **Fase 3:** adicionar estudos de caso mais completos dos projetos reais.
-- [ ] **Fase 4:** avaliar se o projeto deve se tornar público.
+- [ ] **Fase 4:** observar se este material ajuda a encontrar pessoas que se identifiquem com a jornada.
 
 ## ✨ Frase Guia
 

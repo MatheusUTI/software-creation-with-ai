@@ -142,6 +142,106 @@ Quando um documento for importante, usar mais de uma IA para:
 
 A decisão final continua sendo humana.
 
+## LL-009 — Encontrar pares pode exigir exposição
+
+Ao refletir sobre a sensação de solidão intelectual, ficou claro que manter tudo privado protege o processo, mas também limita a chance de encontrar pessoas com inquietações parecidas.
+
+Um repositório público não garante reconhecimento, conversa ou comunidade.
+
+O resultado mais provável pode ser simplesmente nada acontecer.
+
+Mesmo assim, tornar a documentação pública pode ser uma forma honesta de sinalizar:
+
+```txt
+Isto é o que estou investigando.
+Se alguém pensa parecido, talvez não esteja sozinho.
+```
+
+### Aprendizado
+
+Nem toda publicação precisa ter objetivo de viralizar, monetizar ou provar algo.
+
+Às vezes, publicar é apenas abrir uma porta para que pessoas parecidas possam encontrar o caminho.
+
+### Aplicação
+
+Antes de publicar, o projeto deve preservar:
+
+- honestidade;
+- contexto;
+- transparência sobre IA;
+- ausência de promessa exagerada;
+- cuidado com dados sensíveis;
+- clareza de que o repositório é vivo e ainda está em construção.
+
+## LL-010 — Código gerado não é engenharia
+
+Uma reflexão importante surgiu ao ouvir discussões sobre IA, código, débito técnico e segurança.
+
+A IA consegue gerar código cada vez mais rápido.
+
+Mas gerar código não é o mesmo que construir software sustentável.
+
+Código que funciona em uma demonstração pode ainda estar cheio de problemas:
+
+- ausência de testes;
+- regressões escondidas;
+- regras duplicadas;
+- falta de arquitetura;
+- problemas de performance;
+- falhas de segurança;
+- vazamento de credenciais;
+- ausência de rastreabilidade;
+- risco jurídico e operacional.
+
+A sintaxe está ficando mais barata.
+
+A engenharia continua cara.
+
+### Aprendizado
+
+A responsabilidade pelo código gerado por IA continua sendo humana.
+
+A IA pode acelerar a implementação, mas não substitui:
+
+- validação;
+- testes;
+- arquitetura;
+- revisão de segurança;
+- compreensão do domínio;
+- análise de riscos;
+- manutenção de longo prazo.
+
+O risco do desenvolvimento assistido por IA não é apenas a IA errar.
+
+O risco é aceitar rapidamente um código que parece correto sem entender suas consequências.
+
+### Aplicação
+
+Em projetos reais, especialmente quando saem do protótipo, é preciso exigir mais do que "funcionou aqui".
+
+Cada ciclo importante deve perguntar:
+
+1. O que isso pode quebrar?
+2. Que teste prova que continua funcionando?
+3. Que dado sensível pode estar exposto?
+4. Que comportamento pode falhar em escala real?
+5. Que responsabilidade estou assumindo ao aceitar isso?
+
+Essa lição reforça diretamente o propósito do AISDD:
+
+```txt
+A conversa com a IA é temporária.
+O repositório deve ser a fonte da verdade.
+```
+
+E também reforça uma ideia central desta jornada:
+
+```txt
+A IA pode escrever código.
+Mas software ainda exige engenharia.
+```
+
 ## Como adicionar novas lições
 
 Use este formato:

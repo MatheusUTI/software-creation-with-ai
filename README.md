@@ -2,110 +2,116 @@
 
 > Como pessoas comuns podem transformar problemas reais em produtos de software usando Inteligência Artificial.
 
-Este repositório documenta uma jornada prática: criar aplicações úteis com IA, mesmo sem desenvolvimento tradicional baseado em escrita manual de código.
+Este repositório documenta uma jornada prática: criar aplicações úteis com IA, mesmo sem escrever código manualmente como principal atividade.
 
-A ideia central não é provar que a IA substitui pessoas.
+- **A IA não substitui pessoas.** A IA amplia pessoas.
+- **O código é apenas a implementação.** O pensamento, a validação e a responsabilidade continuam sendo humanos.
 
-A ideia central é mostrar que a IA pode ampliar pessoas.
+## 🌎 Por que este projeto existe
 
-## Transparência
+Durante décadas, a criação de software esteve restrita a pessoas capazes de aprender linguagens, frameworks e detalhes técnicos complexos.
 
-Todo este projeto será escrito com auxílio de Inteligência Artificial.
+A Inteligência Artificial começa a reduzir essa barreira.
 
-Isso não será escondido.
+Pela primeira vez, pessoas com profundo conhecimento de domínio, mas sem formação tradicional em desenvolvimento, podem participar ativamente da criação de software.
 
-A IA será usada para organizar ideias, estruturar textos, revisar conceitos e transformar conhecimento prático em documentação acessível.
+Este projeto documenta essa transição.
 
-As experiências, problemas, validações, decisões e aprendizados vêm de projetos reais conduzidos por uma pessoa real.
+Ele não busca provar que qualquer pessoa pode criar qualquer software sem esforço.
 
-## O que este projeto defende
+Ele busca demonstrar que pessoas comuns podem transformar problemas reais em produtos úteis quando combinam conhecimento do problema, pensamento estruturado, validação contínua e Inteligência Artificial como ferramenta.
+
+## 📢 Manifesto de Transparência
+
+Todo este projeto é escrito com o auxílio de Inteligência Artificial.
+
+Isso não é omitido.
+
+É parte do propósito deste repositório.
+
+| Papel da IA | Papel humano |
+|---|---|
+| Organizar ideias | Fornecer experiências reais |
+| Estruturar textos | Identificar problemas do mundo real |
+| Revisar conceitos | Validar soluções na prática |
+| Tornar o conteúdo mais acessível | Tomar decisões e assumir responsabilidade |
+| Ajudar a transformar conhecimento prático em documentação | Registrar aprendizados vindos de projetos reais |
+
+A IA é ferramenta.
+
+A direção é humana.
+
+A responsabilidade é humana.
+
+## 🎯 Pilares e Escopo
+
+### O que este projeto defende
 
 Criar software não precisa começar pela memorização de linguagens.
 
 Pode começar por:
 
-- entender um problema real;
-- definir regras;
-- especificar comportamentos;
-- validar resultados;
-- usar IA como ferramenta;
-- evoluir continuamente.
+1. **Compreensão:** entender profundamente um problema real.
+2. **Definição:** estabelecer regras de negócio claras.
+3. **Especificação:** desenhar comportamentos esperados antes da implementação.
+4. **Validação:** testar e garantir que o resultado resolve a dor proposta.
+5. **Evolução:** iterar continuamente usando IA como ferramenta de execução, revisão e organização.
 
-Código é implementação.
+### Alinhamento de expectativas
 
-Pensamento, validação e responsabilidade continuam sendo humanos.
+| 👥 Para quem é este projeto | 🚫 O que este projeto não é |
+|---|---|
+| Pessoas com problemas reais para resolver no dia a dia. | Um curso tradicional de sintaxe ou lógica de programação. |
+| Profissionais que não se veem como programadores tradicionais. | Uma promessa milagrosa de criar software sem esforço. |
+| Quem deseja criar ferramentas próprias e automatizar processos. | Uma defesa de copiar e colar código sem critério ou validação. |
+| Quem precisa transformar conhecimento prático em soluções digitais. | Uma tentativa de substituir desenvolvedores experientes. |
+| Quem deseja aprender a pensar em produto, processo e especificação. | Uma metodologia fechada, engessada e definitiva. |
 
-## Para quem é este projeto
+## 🛠️ Linha do Tempo dos Experimentos
 
-Este projeto é para pessoas que:
-
-- têm problemas reais para resolver;
-- não se veem como programadoras tradicionais;
-- querem criar ferramentas próprias;
-- usam ou querem usar IA para construir software;
-- precisam transformar conhecimento prático em soluções digitais;
-- querem aprender a pensar produto, processo e especificação.
-
-## O que este projeto não é
-
-Este projeto não é:
-
-- um curso tradicional de programação;
-- uma promessa de criar qualquer software sem esforço;
-- uma defesa de copiar e colar respostas de IA sem validação;
-- uma tentativa de substituir desenvolvedores;
-- uma metodologia fechada e definitiva.
-
-## Projetos que originaram esta jornada
+Os conceitos documentados aqui nasceram da dor e da prática real em cenários operacionais.
 
 | Projeto | Papel na jornada |
 |---|---|
-| RouteWise | Experimento inicial ambicioso que revelou a necessidade de método |
-| Projetos / Roteirizador Pro | Fase de mistura entre app web, planilha e operação real |
-| Roteirizador_RCS | Experimento Python/Streamlit com ETL, mapas, geocodificação e LIFO |
-| Roteirizador | Ferramenta logística real que mostrou a importância de domínio, regras de negócio e continuidade |
-| Casa em Dia | Laboratório Android real para aprender desenvolvimento mobile assistido por IA |
-| AISDD | Framework criado para dar continuidade, rastreabilidade e resistência a alucinações em projetos com IA |
+| **RouteWise** | Experimento inicial ambicioso que revelou a necessidade crítica de um método estruturado. |
+| **Projetos / Roteirizador Pro** | Fase de transição entre aplicação web, planilhas e operação logística real. |
+| **Roteirizador_RCS** | Validação técnica em Python/Streamlit aplicando ETL, mapas, geocodificação e regras operacionais como LIFO. |
+| **Roteirizador** | Ferramenta logística real que provou a importância do domínio, das regras claras e da continuidade do projeto. |
+| **Casa em Dia** | Laboratório Android real para testar desenvolvimento mobile fortemente assistido por IA. |
+| **AISDD** | Framework criado para fornecer continuidade, rastreabilidade e resistência a alucinações em projetos assistidos por IA. |
 
-Veja também:
+Veja o detalhamento e as evidências técnicas em:
 
 ```txt
 docs/07_PROJECT_EVIDENCE.md
 ```
 
-## Estrutura inicial
+## 🗂️ Estrutura da Documentação
 
 ```txt
 docs/
-├─ 00_MY_STORY.md
-├─ 01_CORE_PRINCIPLES.md
-├─ 02_AI_TRANSPARENCY.md
-├─ 03_PROBLEM_TO_PRODUCT.md
-├─ 04_WORKING_WITH_AI.md
-├─ 05_LESSONS_LEARNED.md
-├─ 06_ROADMAP.md
-└─ 07_PROJECT_EVIDENCE.md
+├─ 00_MY_STORY.md           # A jornada do autor e as motivações reais
+├─ 01_CORE_PRINCIPLES.md    # Fundamentos do desenvolvimento assistido por IA
+├─ 02_AI_TRANSPARENCY.md    # O papel exato da IA na criação deste material
+├─ 03_PROBLEM_TO_PRODUCT.md # Como mapear dores e desenhar a solução
+├─ 04_WORKING_WITH_AI.md    # Contexto, prompts estruturados e iteração
+├─ 05_LESSONS_LEARNED.md    # Erros, gargalos e aprendizados da jornada
+├─ 06_ROADMAP.md            # Próximos passos e evolução da documentação
+└─ 07_PROJECT_EVIDENCE.md   # Projetos construídos, testados e registrados
 ```
 
-## Estado atual
+## 🚀 Estado Atual e Próximos Passos
 
-Este repositório começa privado.
+O repositório inicia em modo **privado**.
 
-A prioridade inicial é documentar a jornada com honestidade, sem pressa de publicar, monetizar ou transformar em produto.
+A prioridade absoluta é a honestidade intelectual e a organização do conhecimento adquirido, sem pressa para monetização ou exposição pública.
 
-Primeiro objetivo:
+- [x] **Fase 1:** organizar, estruturar e documentar o que já foi aprendido na prática.
+- [ ] **Fase 2:** refinar o conteúdo e transformá-lo em material didático acessível para outras pessoas.
+- [ ] **Fase 3:** adicionar estudos de caso mais completos dos projetos reais.
+- [ ] **Fase 4:** avaliar se o projeto deve se tornar público.
 
-```txt
-Organizar o que já foi aprendido.
-```
-
-Depois:
-
-```txt
-Transformar isso em material acessível para outras pessoas.
-```
-
-## Frase guia
+## ✨ Frase Guia
 
 > A sintaxe está se tornando responsabilidade das máquinas.  
 > A compreensão dos problemas continua sendo responsabilidade humana.

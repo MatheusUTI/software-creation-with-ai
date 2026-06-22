@@ -108,6 +108,40 @@ Este projeto deve declarar abertamente que usa IA como ferramenta de escrita, or
 
 O valor está na experiência, direção, validação e utilidade do resultado.
 
+## LL-008 — Múltiplas IAs melhoram a documentação
+
+Durante a criação deste projeto, diferentes LLMs foram usados para analisar, criticar, revisar e melhorar o material.
+
+Cada modelo contribuiu de uma forma diferente:
+
+- ChatGPT ajudou com continuidade, síntese, arquitetura narrativa e registro no repositório.
+- Gemini ajudou com refinamento editorial, escaneabilidade e apresentação profissional.
+- Claude ajudou com estrutura, clareza e maturidade textual.
+- Perplexity ajudou com pesquisa, posicionamento e comparação de mercado.
+- DeepSeek ajudou com questionamentos práticos e riscos de adoção.
+- Grok ajudou com crítica pragmática e sugestões de simplificação.
+
+### Aprendizado
+
+Usar múltiplas IAs não significa aceitar tudo sem critério.
+
+Significa coletar perspectivas diferentes e decidir, humanamente, o que faz sentido para o projeto.
+
+A combinação de modelos pode gerar documentação melhor do que depender de uma única IA isolada.
+
+### Aplicação
+
+Quando um documento for importante, usar mais de uma IA para:
+
+- revisar clareza;
+- encontrar lacunas;
+- testar escaneabilidade;
+- apontar exageros;
+- sugerir estrutura;
+- avaliar riscos.
+
+A decisão final continua sendo humana.
+
 ## Como adicionar novas lições
 
 Use este formato:
